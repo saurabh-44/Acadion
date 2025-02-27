@@ -19,7 +19,7 @@ Acadion is a Learning Management System (LMS) built using the MERN stack. It pro
 - **Payment Gateway**: Stripe
 - **Cloud Storage**: Cloudinary
 
-### Prerequisites
+### 📌 Prerequisites
 Ensure you have the following installed:
 - Node.js
 - MongoDB
