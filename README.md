@@ -1,9 +1,9 @@
-# Acadion - Learning Management System
+# 📚 Acadion - Learning Management System
 
-## Project Overview
+## 🚀 Project Overview
 Acadion is a Learning Management System (LMS) built using the MERN stack. It provides role-based access for users and instructors, enabling seamless course creation, management, and learning experiences. The platform integrates secure payment processing and cloud storage for media assets.
 
-## Features
+## ✨ Features
 - **User & Instructor Roles**: Users can enroll in courses, while instructors can create, update, and delete courses.
 - **Secure Authentication**: JWT-based authentication and authorization for secure access.
 - **Course Management**: Instructors can create, edit, and delete courses with video and image support.
@@ -11,7 +11,7 @@ Acadion is a Learning Management System (LMS) built using the MERN stack. It pro
 - **Cloud Storage**: Cloudinary is used for efficient management of images and videos.
 - **Scalable & Responsive UI**: Designed with a modern and user-friendly interface for optimal user experience.
 
-## Tech Stack
+## 🛠 Tech Stack
 - **Frontend**: React.js, Redux, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
@@ -19,17 +19,12 @@ Acadion is a Learning Management System (LMS) built using the MERN stack. It pro
 - **Payment Gateway**: Stripe
 - **Cloud Storage**: Cloudinary
 
-## Installation
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js
 - MongoDB
 
-## Future Enhancements
+## 🔮 Future Enhancements
 - AI-powered course recommendations
 - Real-time chat between instructors and students
 - Mobile application support
-
-## Contact
-For any queries or contributions, feel free to reach out at [938saurabh@gamil.com](mailto:938saurabh@gamil.com).
-
