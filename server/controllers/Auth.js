@@ -274,6 +274,7 @@ exports.changePassword = async (req, res) => {
         error: error.message,
       })
     }
+    
 
     // Return success response
     return res
