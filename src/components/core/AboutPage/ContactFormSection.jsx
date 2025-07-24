@@ -2,6 +2,7 @@ import React from "react";
 import ContactUsForm from "../../ContactPage/ContactUsForm";
 
 const ContactFormSection = () => {
+  
   return (
     <div className="mx-auto">
       <h1 className="text-center text-4xl font-semibold">Get in Touch</h1>
