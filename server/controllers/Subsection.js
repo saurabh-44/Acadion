@@ -18,6 +18,7 @@ exports.createSubSection = async (req, res) => {
     }
     console.log(video)
 
+    
     // Upload the video file to Cloudinary
     const uploadDetails = await uploadImageToCloudinary(
       video,
